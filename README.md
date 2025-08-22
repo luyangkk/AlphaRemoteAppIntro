@@ -1,6 +1,6 @@
-# Alpha 影控 - 官方网站
+# 微单影控 - 官方网站
 
-这是 Alpha 影控 iOS 应用的官方介绍网站，专为 GitHub Pages 部署而设计。
+这是 微单影控 iOS 应用的官方介绍网站，专为 GitHub Pages 部署而设计。
 
 ## 项目结构
 
